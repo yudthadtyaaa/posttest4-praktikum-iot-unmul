@@ -41,8 +41,10 @@ Tiga dari empat LED dapat dikontrol secara individu oleh anggota kelompok terten
 
 
 ## Board Skematic:
-1. Design Skematic
+
+
+# 1. Design Skematic
 ![posttest4_skematik_design](https://github.com/yudthadtyaaa/posttest3-praktikum-iot-unmul/assets/95072812/c5f2fc1d-346b-4b15-88f6-3805687cdd8d)
 
-2. Design Real
+# 2. Design Real
 ![posttest4_skematik_real](https://github.com/yudthadtyaaa/posttest3-praktikum-iot-unmul/assets/95072812/5779773b-f9d9-4ed7-a027-8fe7711328f6)
